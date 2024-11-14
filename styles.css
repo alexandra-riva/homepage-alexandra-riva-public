@@ -89,8 +89,7 @@ footer a {
 #introduce {
   text-align: center;
   color: var(--primary-text);
-  background-image: url("./images/your-dark-image.jpg"), 
-                    linear-gradient(to bottom, rgba(18, 18, 18, 0.7), rgba(18, 18, 18, 0.9));
+  background-image: linear-gradient(to bottom, rgba(18, 18, 18, 0.7), rgba(18, 18, 18, 0.9));
   background-size: cover;
   background-position: center;
   padding: 20px;
